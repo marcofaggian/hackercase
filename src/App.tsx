@@ -24,17 +24,18 @@ const App = () => {
         justifyContent: "center",
       }}
     >
-      <h1 style={{ marginTop: "20vh" }}>H4ck3rC4s3_1t!</h1>
       <h1
         style={{
-          marginTop: "-32px",
+          marginTop: "20vh",
+          marginBottom: "-54px",
           zIndex: -1,
-          color: "rgba(0,0,0,0.3)",
-          fontSize: "22px",
+          color: "rgba(0,0,0,0.15)",
+          fontSize: "64px",
         }}
       >
         HackerCase It!
       </h1>
+      <h1>H4ck3rC4s3_1t!</h1>
 
       <h3 style={{ marginBottom: "4px" }}>You can change the rules</h3>
       <div style={{ minWidth: "328px" }}>
